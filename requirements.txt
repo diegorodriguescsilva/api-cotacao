@@ -1,0 +1,2 @@
+requests
+#facilita a instalação das dependências e ajuda a manter o controle do projeto 
