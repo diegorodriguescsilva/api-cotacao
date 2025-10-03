@@ -91,8 +91,3 @@ Não encontramos a moeda solicitada.
 - Biblioteca requests
 - Docker
 - GitHub Actions (CI)
-
-# documento de apresentação:
-
-📄 [Abrir Documentação](./Documentação.pdf)
-
