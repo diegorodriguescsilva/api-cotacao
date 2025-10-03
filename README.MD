@@ -92,3 +92,6 @@ Não encontramos a moeda solicitada.
 - Docker
 - GitHub Actions (CI)
 
+# documento de apresentação:
+
+📄 [Abrir Documentação](./docs/Documentação.pdf)
